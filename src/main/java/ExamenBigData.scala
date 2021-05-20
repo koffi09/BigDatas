@@ -28,8 +28,9 @@ object ExamenBigData {
 
            )
           )
+          return liste
              // a ffichage ses resulatat des liste
-
+          println()
         }
 
   }
